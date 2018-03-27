@@ -1,0 +1,6 @@
+Segue alguns simuladores para arduino que podem utilizar para praticar em casa.
+
+O circuits.io é online e tem alguns Arduinos o fritizing é um aplicativo que possui mais opções de placas e componentes e foi indicado pelo Mauricio Borges.
+
+1) https://circuits.io
+2) http://fritzing.org/home/
